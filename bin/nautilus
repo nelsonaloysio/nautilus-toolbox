@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+toolbox run --container fedora-toolbox-36 nautilus "${@}"
